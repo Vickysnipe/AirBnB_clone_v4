@@ -72,6 +72,7 @@ No known bugs at this time.
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
 - Lilian nyinyayo - [Github](https://github.com/ladyroyal5)
+-Tugwa Chinenye victor - [Github](https://github.com/Vickysnip) / [Twitter](https://twitter.com/Vickysnipes147)
 
 ###### Version 3
 
